@@ -1,0 +1,25 @@
+{
+  "name": "ieo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15573138624/ieo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/15573138624/ieo/issues"
+  },
+  "homepage": "https://github.com/15573138624/ieo#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.0.0"
+  }
+}
